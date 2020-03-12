@@ -6,7 +6,7 @@
 Config Finder Is Just a Config Exploiter it Uses Known CVE Exploits For Wordpress,Joomla And U Put u Website and it Grabs Then Config This tool is
 great for Pentesting Websites.
 
-<img src="https://imgur.com/Z2chTFn.jpg" data-canonical-src="https://imgur.com/4ylid21" style="max-width:100%;">
+<img src="https://i.imgur.com/4ylid21.png" data-canonical-src="https://imgur.com/4ylid21" style="max-width:100%;">
 
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
